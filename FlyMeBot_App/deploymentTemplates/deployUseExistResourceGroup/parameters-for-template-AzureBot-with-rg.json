@@ -1,0 +1,33 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "azureBotId": {
+            "value": "Fly_Me_BOT"
+        },
+        "azureBotSku": {
+            "value": "F0"
+        },
+        "azureBotRegion": {
+            "value": "global"
+        },
+        "botEndpoint": {
+            "value": "https://flymebotwebapp.azurewebsites.net/api/messages"
+        },
+        "appId": {
+            "value": "4fcb967e-f472-4ee5-9832-ce6de8d09720"
+        },
+        "appType": {
+            "value": "UserAssignedMSI"
+        },
+        "UMSIName": {
+            "value": "Fly_Me_Bot"
+        },
+        "UMSIResourceGroupName": {
+            "value": "OC_P10"
+        },
+        "tenantId": {
+            "value": "1e5648d9-7675-4abd-8cf3-21e695d614d2"
+        }
+    }
+}
