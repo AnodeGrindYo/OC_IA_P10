@@ -55,3 +55,7 @@ Pour assurer la pertinence du chatbot, il est nécessaire d'évaluer les perform
 - [FlyMeBot_App](https://github.com/AnodeGrindYo/FlyMeBot_App/actions)
 - [FlyMeBot_WepPage](https://github.com/AnodeGrindYo/FlyMe_WebPage/actions)
 
+## Screenshots
+![](https://cdn.discordapp.com/attachments/903011034439233596/1031997222138695720/unknown.png)
+![](https://cdn.discordapp.com/attachments/903011034439233596/1031997445917388870/unknown.png)
+![](https://cdn.discordapp.com/attachments/903011034439233596/1031997271023304714/unknown.png)
